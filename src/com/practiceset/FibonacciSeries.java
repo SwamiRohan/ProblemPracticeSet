@@ -1,7 +1,10 @@
 package com.practiceset;
 
 import java.util.Scanner;
-
+// Ques -> To print Fibonacci series and to print the term of fibonacci series
+// Explanation -> fibonacci series is if first term is 0 and second term is 1 than upcoming terms will be sum
+//                previous two terms.
+//                Like 0 1 (0+1=1) (1+1=2) (2+1=3) ......
 public class FibonacciSeries {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
