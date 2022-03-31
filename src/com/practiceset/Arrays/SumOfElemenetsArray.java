@@ -1,4 +1,4 @@
-package com.practiceset;
+package com.practiceset.Arrays;
 
 import java.util.Scanner;
 // Ques - To calculate the sum of elements of an array
